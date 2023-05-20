@@ -1,0 +1,43 @@
+<!DOCTYPE html> 
+ <html> 
+  <head> 
+   <title>Queen Elizabeth II and British Industry</title> <style> body { font-family: Arial, sans-serif; background-color: #f7f7f7; }
+	h1, h3 {
+		color: #666;
+		text-align: center;
+	}
+
+	img {
+		display: block;
+		margin: auto;
+		max-width: 100%;
+		height: auto;
+	}
+
+	button {
+		display: block;
+		margin: auto;
+		margin-top: 50px;
+		background-color: #222;
+		color: #fff;
+		padding: 10px;
+		border: none;
+		border-radius: 5px;
+		cursor: pointer;
+		text-align: center;
+	}
+
+	button:hover {
+		background-color: #555;
+	}
+</style>
+</head> <body> <h1><strong>Queen Elizabeth II</strong></h1> <p>Текст для 9 класса на Английском языке — Queen Elizabeth II</p> <img src="https://24smi.org/public/media/resize/660x-/celebrity/2016/12/08/6qDit9uPuWxY_elizaveta-ii.jpg" alt="Queen Elizabeth II"> <h3>Since 1066 there have been forty monarchs in England, thirty-five kings, five queens and seven dynasties. Only fourteen monarchs have stayed on the throne for more than twenty-five years, one of them is Queen Elizabeth II.</h3> <h3>Every royal house or 'dynasty' has a surname. In Britain's case that name is Windsor Queen Elizabeth II is the fourth Windsor monarch. She is also the head of a very large family. She has three sons, one daughter, and many grandsons and granddaughters.</h3> <h3>The most famous British royal home is Buckingham Palace. But it is not the only one. The Queen and her family have several other castles, official residences and country houses too. Today Buckingham Palace is the best known palace in the world. It stands at the end of a long boulevard called The Mall and it has 600 rooms on three floors, 400 staff, and 300 clocks.</h3> <h3>After Queen Elizabeth II, Britain's next monarch will probably be Prince Charles, the Prince of Wales. He will be King Charles III. Even further in the future his son, Prince William, will become king too. His title will be King William V. The National Anthem is called 'God save the Queen'. But if Prince Charles becomes King, it will be 'God save the King'.</h3>
+<h1><strong>Industry in Britain</strong></h1>
+<img src="https://www.thesun.co.uk/wp-content/uploads/2019/05/NINTCHDBPICT000465765740-e1559167839221.jpg" alt="Industrial City">
+<h3>Britain is one of the most highly industrialised countries in the world: for every person employed in agriculture 12 are employed in industry. The original base of British industry was coal-mining, iron and steel and textiles. Today the most productive sectors include high-tech industries, chemicals, finance and the service sectors, especially banking, insurance and tourism.</h3>
+<h3>Birmingham developed engineering, chemicals, electronics and car manufacture. Cambridge is famous for software engineering (making programs for computers) and bio-chemical and bio-genetic products. Cattle-farming is the speciality of the west of England, Northern Ireland and Scotland. Wheat and fruit are widely grown in the south-east of England. Near the east and north-east coast of England and Scotland there are vast reserves of oil and gas. The UK is a member of OPEC - the Oil Producers and Exporters Cartel.</h3>
+
+<button>
+	<a href="https://www.royal.uk/"><strong>Official website of the Royal Family</strong></a>
+</button>
+</body> </html>
